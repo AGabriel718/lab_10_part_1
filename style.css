@@ -2,6 +2,24 @@ p {
 	color: #FF0000;
 }
 
+#intro {
+		color: #0000FF;
+}
+
+.spotlight {
+		background-color: #FEFE22;
+		
+}
+
+p a {
+		color: #000000;
+		
+}
+
+a:hover {
+		background-color:#999999;
+		
+}
 h1 {
 		color: #00FF00;
 		text-transform: uppercase;
